@@ -58,7 +58,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- GETTING STARTED -->
+
 ## Getting Started
+
 ### Prerequisites
 
 To begin installation of the project, make sure you have the latest version of NodeJS installed in your code editor.
@@ -83,6 +85,7 @@ To install the project, please follow the following steps:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 To run the application, please follow the following steps:
@@ -94,7 +97,9 @@ To run the application, please follow the following steps:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
+
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
