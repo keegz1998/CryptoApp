@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product screenshot][product-screenshot]](https://imgur.com/cW7UvZK)
+![Screenshot](product-screenshot.PNG)
 
 This web application was designed to be a hub where the user can monitor and track the news and prices of cryptocurrencies as they develop. The application displays the following information regarding each crypto currency:
 
@@ -88,14 +88,12 @@ To install the project, please follow the following steps:
 To run the application, please follow the following steps:
 1. Run the project
    ```sh
-    npm start
-   ```
+    npm start   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
