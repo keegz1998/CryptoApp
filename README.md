@@ -81,6 +81,11 @@ To install the project, please follow the following steps:
    ```sh
    npm install
    ```
+3. Enter your Rapid API in `.env`
+   ```js
+   REACT_APP_RAPIDAPI_KEY =  'ENTER YOUR API'
+   
+   ```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
