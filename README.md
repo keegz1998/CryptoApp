@@ -88,7 +88,8 @@ To install the project, please follow the following steps:
 To run the application, please follow the following steps:
 1. Run the project
    ```sh
-    npm start   ```
+    npm start   
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
