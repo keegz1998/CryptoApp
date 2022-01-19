@@ -6,7 +6,7 @@
   <p align="center">
     A React JS based web application used to monitor the prices and recent news of multiple different cryptocurrencies.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/keegz1998"><strong>Find more projects from me »</strong></a>
     <br />
     <br />   
 </div>
@@ -75,7 +75,7 @@ To install the project, please follow the following steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/keegz1998/CryptoApp.git
    ```
 2. Install NPM packages
    ```sh
