@@ -47,7 +47,6 @@ This web application was designed to be a hub where the user can monitor and tra
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [AntDesign](https://ant.design/)
 * [React.js](https://reactjs.org/)
